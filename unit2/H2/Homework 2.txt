@@ -1,0 +1,52 @@
+﻿Homework 2 
+
+EX 1: Write C Program to Check Whether a Number is Even or Odd 
+Output 1 
+Enter   an  integer  you   want   to  check :  25 
+25  is  odd . 
+
+Output 2 
+Enter   an  integer  you   want   to  check :  12 
+12  is  even . 
+################################################################################################################################################
+EX2: C Program to Check Vowel or Consonant 
+Output 1 
+Enter   an  alphabet :  i 
+i is a vowel . 
+Output 2 
+Enter an alphabet :  G 
+G  is  a consonant . ################################################################################################################################################
+EX3:C Program to Find the Largest Number Among Three Numbers 
+Output 
+Enter  three   numbers :  12.2 
+13.452 
+10.193 
+Largest   number   = 13.45 
+################################################################################################################################################
+EX4: C Program to Check Whether a Number is Positive or Negative 
+Output 1 
+Enter   a number :  12.3 
+12.30  is  positive. 
+Output 2 
+Enter   a number :  0 
+You  entered   zero . ################################################################################################################################################
+EX 5: C Program to Check Whether a Character is an Alphabet or not 
+Output 1 
+Enter  a character :  * 
+*  is  not  an  alphabet 
+Output    2 Enter   a  character :  K 
+K  is an   alphabet 
+################################################################################################################################################
+EX6: C Program to Calculate Sum of Natural Numbers 
+Output 
+Enter  an   integer :  100 
+Sum   = 5050 
+################################################################################################################################################
+EX7: C Program to Find Factorial of a Number 
+Output 1 
+Enter  an   integer :  - 5 
+Error ! ! ! Factorial  of    negative  number    doesn't exist . 
+Output 2 
+Enter   an  integer :  10 Factorial  =    3628800 
+################################################################################################################################################
+EX8: C Program to Make a Simple Calculator to Add, Subtract, Multiply or Output Enter  operator    either   +  or  - or  *  or  divide   : Enter  two   operands :  3.4 8.4 3.4-8.4  =  - 5.0 

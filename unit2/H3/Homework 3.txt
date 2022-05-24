@@ -1,0 +1,60 @@
+﻿Homework 3 ##########################################################################################################################################################################
+HW Arrays 
+
+EX 1: Example of Multidimensional Array In C 
+Writea C  program to find sumof two matrix of order 2*2 usingmultidimensionalarrays where, 
+elements of matrix are entered by user. 
+Ouput Enter the elements of st matrix 
+Enter  all: 2 ; 
+Enter  al2 : 0.5; 
+Enter  a 21: - 1.1; 
+Enter  a22 : 2 ; 
+Enter  the  elements    of  2nd  matrix 
+Enter   bll:  0.2; 
+Enter   bl2 :  0; 
+Enter   b21:  0.23; 
+Enter   b22 :  23 ; 
+Sum  Of  Matrix : 
+2 . 2     0.5 
+-0.9      25.0 ##########################################################################################################################################################################
+
+EX2: C Program to Calculate Average Using Arrays 
+
+This program takes n numberof elementfrom user(where ,n isspecified by user),storesdata in an array 
+and calculatesthe average of those numbers. 
+Output 
+Enter  the   numbers   of  data :  6 
+1.  Enter   number :  45.3 
+2 .  Enter  number :  67.5 
+3 .  Enter  number :  -45.6 
+4 .  Enter  number :  20.34 
+5 .  Enter  number :  33 
+6 .  Enter  number :  45.6 
+Average   =  27.69 
+##########################################################################################################################################################################
+EX3: C Program to Find Transpose of a Matrix 
+This program asks user to enter a matrix ( size of matrix is specified by user) and this program finds the 
+transpose of that matrix and displays it. 
+Output Enter  rows  and column  of  matrix : 2 3 Enter  elements  of  matrix : Enter  elements  all: 1 Enter  elements  al2 : 2 Enter  elements  al3 : 9 Enter  elements  a 21: 0 Enter  elements  a 22 :  4 Enter  elements  a 23 : 7 Entered  Matrix : 12 9 0  4   7 Transpose   of  Matrix : 1  0 2  4 9  7 ##########################################################################################################################################################################
+EX4: C Program to Insert an element in an Array 
+Output of the Program : 
+Enter  no  of  elements :  5 1 2  3 4  5 Enter  the  element  to  be  inserted  : 6 Enter  the  location  : 2 1 6  2 3 4  5 ##########################################################################################################################################################################
+EX 5: C Program to Search an element in Array 
+Output : Enter  no  of  elements  : 5 11 22  33  44 55 Enter  the  elements  to  be  searched   : 44 Number  found  at  the  location =   4 
+####################################################################################################################################################################################################################################################################################################################################################
+HW: Strings 
+
+Exl : C Program to Find the Frequency of Characters in a String 
+
+This program asks user to enter a string and a  character and this program checks how many times that 
+character is repeated in the string entered by user. 
+Output Enter a string: This website is awesome. Enter a character to find frequency: e Frequency of e = 4 
+##########################################################################################################################################################################
+EX2: C Program to Find the Length of a String 
+You can use standard library function strlen()to find the length of a string but, this program computes the length of a string manually without using strlen()funtion. 
+Output Enter a string  Programiz 
+Length of string: 9 
+##########################################################################################################################################################################EX3: C Program to Reverse String Without Using Library Function 
+You can only use library function strlenQ^To find the length of the string 
+Output : Enter the string   : Pritesh Reverse string is : hsetirP 
+####################################################################################################################################################################################################################################################################################################################################################

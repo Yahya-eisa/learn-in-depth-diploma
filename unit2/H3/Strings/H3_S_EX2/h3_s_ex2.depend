@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651174552 source:f:\yahya\unit2\h3\strings\h3_s_ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
